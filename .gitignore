@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+out/
+plots/
+data/projected_shp/rivers.*
+data/projected_rasters/
+.DS_Store
+Thumbs.db
